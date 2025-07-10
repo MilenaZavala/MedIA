@@ -17,7 +17,7 @@ const App: React.FC = () => {
       messages: [
         {
           id: '1',
-          text: `¡Hola ${user.name}! Soy tu asistente médico virtual. ¿Qué síntomas estás experimentando hoy?`,
+          text: `¡Hola ${user.name}! Soy tu asistente médico virtual. ¿Qué síntomas estás experimentando hoy?as`,
           sender: 'bot',
           timestamp: new Date(),
         },
